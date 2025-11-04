@@ -1,2 +1,2 @@
 # To-do-list
-A simple to do list using python.
+A minimal FastAPI-powered to-do list demo that stores tasks in MongoDB and renders a small Jinja2 template.
